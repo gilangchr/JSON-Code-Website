@@ -1,0 +1,46 @@
+{
+    "menu": [
+        {
+            "kategori": "geprek mukbang",
+            "nama": "Geprek Kecombrang",
+            "harga": 23000,
+            "deskripsi": "Rasa Enak Nyaman Di Mulut & Selalu Terbaik",
+            "gambar": "kecombrang.jpg"
+        },
+        {
+            "kategori": "geprek mukbang",
+            "nama": "Geprek Matah Chilli",
+            "harga": 30000,
+            "deskripsi": "Rasa Enak Nyaman Di Mulut & Selalu Terbaik",
+            "gambar": "matah chili.jpg"
+        },
+        {
+            "kategori": "geprek mukbang",
+            "nama": "Geprek Nasi Lemak",
+            "harga": 40000,
+            "deskripsi": "Rasa Enak Nyaman Di Mulut & Selalu Terbaik",
+            "gambar": "nasi lemak.jpg"
+        },
+        {
+            "kategori": "geprek minisize",
+            "nama": "Geprek Nasi Sambal",
+            "harga": 35000,
+            "deskripsi": "Rasa Enak Nyaman Di Mulut & Selalu Terbaik",
+            "gambar": "nasi sambal.jpg"
+        },
+        {
+            "kategori": "geprek minisize",
+            "nama": "Geprek Original",
+            "harga": 33000,
+            "deskripsi": "Rasa Enak Nyaman Di Mulut & Selalu Terbaik",
+            "gambar": "original.jpg"
+        },
+        {
+            "kategori": "geprek minisize",
+            "nama": "Geprek Telur Asin",
+            "harga": 43000,
+            "deskripsi": "Rasa Enak Nyaman Di Mulut & Selalu Terbaik",
+            "gambar": "telur asin.jpg"
+        }
+    ]
+}
